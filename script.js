@@ -1,0 +1,1 @@
+alert("Hello this Javascript is used for git commit :)");
