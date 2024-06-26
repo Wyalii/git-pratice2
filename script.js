@@ -1,1 +1,1 @@
-alert("bug fixed");
+alert("intresting");
